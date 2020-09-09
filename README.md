@@ -1,2 +1,2 @@
 # git-practice
-Practice git
+Update README file.
